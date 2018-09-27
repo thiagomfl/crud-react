@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thiago Moura",
+      "email": "thmoura14@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Priscila Borges",
+      "email": "priscila@gmail.com"
+    },
+    {
+      "name": "teste react",
+      "email": "teste_react@teste.com",
+      "id": 4
+    },
+    {
+      "name": "newUser",
+      "email": "user@test.com",
+      "id": 5
+    }
+  ]
+}
