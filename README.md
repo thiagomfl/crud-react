@@ -5,15 +5,15 @@ User Registration app that allows manage the registration of multiple users, mad
 ## Quick Start
 
 ```bash
-# Install dependencies for server and run server in the back end folder
+# Install dependencies for server and run server in the backend folder
 npm install
 npm start
 
-# Install dependencies for client and run client in the front end folder
+# Install dependencies for client and run client in the frontend folder
 npm install
 npm start
 
-# The back end Server runs on http://localhost:3001 and the front end client on http://localhost:3000
+# Backend Server runs on http://localhost:3001 and Frontend client on http://localhost:3000
 ```
 
 ### Author
